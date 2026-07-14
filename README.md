@@ -16,9 +16,9 @@
 - Learn Backend Development
 - Contribute to Open Source
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-C++ • Python • JavaScript • React • Git • GitHub • HTML • CSS
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,git,github,html,css,js,react,vscode)](https://skillicons.dev)
 
 
 ## 🌐 Coding Profiles
