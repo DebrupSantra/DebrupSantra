@@ -37,6 +37,4 @@ Mail: debrup.santra@gmail.com
 👯 Interested in collaborating on open-source projects and web development.
 
 ⚡ Fun fact: I enjoy building practical software and solving programming challenges.
-
-- Email
-- LinkedIn (when you create one)
+ou create one)
