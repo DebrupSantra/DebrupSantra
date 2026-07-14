@@ -20,9 +20,6 @@
 
 C++ • Python • JavaScript • React • Git • GitHub • HTML • CSS
 
-## 📊 GitHub Stats
-
-(Add GitHub Stats Cards)
 
 ## 🌐 Coding Profiles
 
