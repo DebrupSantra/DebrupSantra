@@ -30,13 +30,21 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+C++ • C • JavaScript
+
+### 🌐 Frontend
+HTML • CSS • React
+
+### 🗄️ Database
+MySQL
+
+### 🛠️ Tools
+Git • GitHub • VS Code
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,mysql,git,github,html,css,js,react,vscode" />
-
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,mysql,git,github,vscode"/>
 </p>
-
----
 
 ## 📌 Featured Projects
 
