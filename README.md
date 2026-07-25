@@ -1,59 +1,124 @@
-# Hi 👋 I'm Debrup Santra
+<h1 align="center">Hi 👋, I'm Debrup Santra</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Open Source Enthusiast</h3>
 
-💻 B.Tech CSE Student at Haldia Institute of Technology (HIT), India
-
-I'm passionate about software development, problem solving, and building practical applications. Currently focused on strengthening my Data Structures & Algorithms skills while exploring full-stack web development and open source.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Learning+DSA+%26+Building+Projects;Open+Source+Contributor;Future+Full-Stack+Developer" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 About Me
+
+🎓 B.Tech CSE Student at **Haldia Institute of Technology**
+
+💻 Passionate about Software Development and Problem Solving
+
+🌱 Currently learning
 
 - C++
 - Data Structures & Algorithms
 - React
-- Git & GitHub
 - Backend Development
 
----
-
-## 🚀 Featured Projects
-
-- 📱 Smart Unit Converter (React + Capacitor)
-- 🏥 Hospital Management System (MySQL)
-- 🛒 Ecommerce Management System (MySQL)
-- 💻 CPP Learning Repository
-
----
-
-## 🎯 Goals for 2026
-
-- ✅ Solve 500+ LeetCode problems
-- ✅ Build 10+ real-world projects
-- ✅ Contribute to Open Source
-- ✅ Become internship-ready
+🚀 Building projects while improving my problem-solving skills every day.
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,mysql,git,github,html,css,js,react,vscode)](https://skillicons.dev)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,mysql,git,github,html,css,js,react,vscode" />
+
+</p>
 
 ---
 
-## 🌐 Coding Profiles
+## 📌 Featured Projects
 
-- 💛 LeetCode: https://leetcode.com/u/your_username/
-- 🔵 Codeforces: https://codeforces.com/profile/your_username
-- 🟢 HackerRank: https://www.hackerrank.com/your_username
+📱 **Smart Unit Converter**
+> React • Capacitor
+
+🏥 **Hospital Management System**
+> MySQL
+
+🛒 **Ecommerce Management System**
+> MySQL
+
+💻 **CPP Learning Repository**
+> C++ • DSA
+
+🏦 **Banking System**
+> Open Source Contribution
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DebrupSantra&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebrupSantra&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DebrupSantra&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Solve 500+ LeetCode problems
+- ✅ Build 10+ Projects
+- ✅ Learn Full Stack Development
+- ✅ Contribute to Open Source
+- ✅ Crack a Software Engineering Internship
 
 ---
 
 ## 📫 Connect with Me
 
-📧 Email: debrup.santra@gmail.com
+📧 **Email**
 
-💼 LinkedIn: (https://www.linkedin.com/in/debrup-santra-97a69b421/)
+debrup.santra@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/YOUR_LINKEDIN
 
 ---
 
-⭐ I'm always interested in collaborating on open-source projects and building useful software.
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
