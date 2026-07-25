@@ -2,6 +2,10 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Open Source Enthusiast</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DebrupSantra&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Learning+DSA+%26+Building+Projects;Open+Source+Contributor;Future+Full-Stack+Developer" />
 </p>
 
@@ -36,21 +40,13 @@
 
 ## 📌 Featured Projects
 
-📱 **Smart Unit Converter**
-> React • Capacitor
-
-🏥 **Hospital Management System**
-> MySQL
-
-🛒 **Ecommerce Management System**
-> MySQL
-
-💻 **CPP Learning Repository**
-> C++ • DSA
-
-🏦 **Banking System**
-> Open Source Contribution
-
+| Project | Tech |
+|---------|------|
+| 📱 **[Smart Unit Converter](https://github.com/DebrupSantra/Smart-Unit-Converter)** | React • Capacitor |
+| 🏥 **[Hospital Management System](https://github.com/DebrupSantra/hospital-management-system-mysql)** | MySQL |
+| 🛒 **[Ecommerce Management System](https://github.com/DebrupSantra/Ecommerce-Management-System-mysql)** | MySQL |
+| 💻 **[CPP Learning](https://github.com/DebrupSantra/CPP-LEARNING)** | C++ • DSA |
+| 🏦 **Banking System** | Open Source Contribution |
 ---
 
 ## 📊 GitHub Stats
@@ -65,9 +61,7 @@
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DebrupSantra/DebrupSantra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+[![Debrup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DebrupSantra&theme=tokyo-night)](https://github.com/DebrupSantra)
 
 ---
 
@@ -85,11 +79,11 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/DebrupCodes/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<a href="https://codeforces.com/profile/Debrup_Un-Locked">
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
@@ -111,16 +105,19 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-📧 **Email**
+<p align="left">
 
-debrup.santra@gmail.com
+<a href="mailto:debrup.santra@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/debrup-santra-97a69b421/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://linkedin.com/in/YOUR_LINKEDIN
-
+</p>
 ---
 
 <p align="center">
