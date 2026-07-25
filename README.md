@@ -1,37 +1,59 @@
 # Hi 👋 I'm Debrup Santra
 
-🌱 Currently learning
+💻 B.Tech CSE Student at Haldia Institute of Technology (HIT), India
+
+I'm passionate about software development, problem solving, and building practical applications. Currently focused on strengthening my Data Structures & Algorithms skills while exploring full-stack web development and open source.
+
+---
+
+## 🌱 Currently Learning
+
 - C++
 - Data Structures & Algorithms
 - React
 - Git & GitHub
+- Backend Development
 
-🚀 Building
+---
+
+## 🚀 Featured Projects
+
 - 📱 Smart Unit Converter (React + Capacitor)
+- 🏥 Hospital Management System (MySQL)
+- 🛒 Ecommerce Management System (MySQL)
 - 💻 CPP Learning Repository
 
-🎯 2026 Goals
-- Solve 500+ LeetCode problems
-- Build 10+ real-world projects
-- Learn Backend Development
-- Contribute to Open Source
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Solve 500+ LeetCode problems
+- ✅ Build 10+ real-world projects
+- ✅ Contribute to Open Source
+- ✅ Become internship-ready
+
+---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,git,github,html,css,js,react,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,mysql,git,github,html,css,js,react,vscode)](https://skillicons.dev)
 
+---
 
 ## 🌐 Coding Profiles
 
-- LeetCode
-- Codeforces
-- HackerRank
+- 💛 LeetCode: https://leetcode.com/u/your_username/
+- 🔵 Codeforces: https://codeforces.com/profile/your_username
+- 🟢 HackerRank: https://www.hackerrank.com/your_username
 
-## 📫 Connect
+---
 
-Mail: debrup.santra@gmail.com
+## 📫 Connect with Me
 
-👯 Interested in collaborating on open-source projects and web development.
+📧 Email: debrup.santra@gmail.com
 
-⚡ Fun fact: I enjoy building practical software and solving programming challenges.
-ou create one)
+💼 LinkedIn: (https://www.linkedin.com/in/debrup-santra-97a69b421/)
+
+---
+
+⭐ I'm always interested in collaborating on open-source projects and building useful software.
