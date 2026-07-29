@@ -46,7 +46,7 @@ MySQL
 Git • GitHub • VS Code
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,github,html,css,react,mysql,git,vscode"/>
 </p>
 
 ## 📌 Featured Projects
