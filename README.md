@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student at **Haldia Institute of Technology**
+🎓 B.Tech CSE Student 
 
 💻 Passionate about Software Development and Problem Solving
 
