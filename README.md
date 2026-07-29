@@ -23,6 +23,7 @@
 - C++
 - Python
 - Java
+- HTML
 - Data Structures & Algorithms
 - React
 - Backend Development
