@@ -19,7 +19,10 @@
 
 🌱 Currently learning
 
+- DBMS
 - C++
+- Python
+- Java
 - Data Structures & Algorithms
 - React
 - Backend Development
